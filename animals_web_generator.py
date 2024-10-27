@@ -1,4 +1,3 @@
-import os
 import data_fetcher
 
 def generate_website(animal_data):
